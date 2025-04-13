@@ -7,8 +7,6 @@ These are the config tiles i use to set up my development environmnet across dif
 - ** Neovim (`nvim/`)**
   - My full lua-based config.
   - cheatsheet
- 
--
 
 
 ## How to use it
